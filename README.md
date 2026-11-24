@@ -155,37 +155,37 @@ included in the repository.
 ### 1. Introduction
 Project background, analytical scope, and original synthetic dataset.
 
-![Introduction](images/01_Introduction.png)
+![Introduction](screenshots/01_Introduction.png)
 
 ### 2. Executive Overview
 Portfolio-level KPIs, advertising investment, attributed revenue, ROAS, and performance trends across studios.
 
-![Executive Overview](images/02_Executive_Overview.png)
+![Executive Overview](screenshots/02_Executive_Overview.png)
 
 ### 3. Conversion Journey
 Conversion funnel analysis, channel-level acquisition costs, and conversion efficiency across campaign objectives.
 
-![Conversion Journey](images/03_Conversion_Journey.png)
+![Conversion Journey](screenshots/03_Conversion_Journey.png)
 
 ### 4. Campaign Deep Dive
 Campaign-level advertising returns, performance drivers, and interactive decomposition analysis.
 
-![Campaign Deep Dive](images/04_Campaign_Deep_Dive.png)
+![Campaign Deep Dive](screenshots/04_Campaign_Deep_Dive.png)
 
 ### 5. Budget Delivery
 Planned versus actual advertising spend, budget utilization, campaign-level budget variance, and unspent budget analysis.
 
-![Budget Delivery](images/05_Budget_Delivery.png)
+![Budget Delivery](screenshots/05_Budget_Delivery.png)
 
 ### 6. Audience & Targeting
 Targeting strategy effectiveness, channel performance, acquisition efficiency, and investment opportunities.
 
-![Audience & Targeting](images/06_Audience_Targeting.png)
+![Audience & Targeting](screenshots/06_Audience_Targeting.png)
 
 ### 7. Executive Insights
 Three quantified business findings, their strategic implications, and actionable recommendations.
 
-![Executive Insights](images/07_Executive_Insights.png)
+![Executive Insights](screenshots/07_Executive_Insights.png)
 
 ## Key Performance Indicators (KPIs)
 
@@ -264,7 +264,7 @@ Key modeling decisions:
 
 #### Power BI Data Model
 
-![Power BI Data Model](images/Data_Model.png)
+![Power BI Data Model](screenshots/Data_Model.png)
 
 ### 4. DAX and KPI Development
 
